@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Personal AI OS",
+  "description": "Web-based Personal AI Operating System with Central AI Brain, Multi-AI Model Manager, Skill Store, Coding Studio, Memory Center, Voice Assistant, System Diagnostics, Self-Evolution, and Mandatory Update Approval Center.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
